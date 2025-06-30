@@ -21,6 +21,10 @@ redirect_from:
 I am Gongchao Chen (陈巩超), currently pursuing a Master’s degree at Henan Institute of Science and Technology, supervised by Prof. Guohou Li and Prof. <a href = "https://xxgcxy.hist.edu.cn/info/1478/8956.htm" target = "_blank"> Weidong Zhang</a>. In Jul. 2024 - Jul. 2025, I worked as a visiting student at Advanced Ocean Institute of Southeast University, Nantong. My research interests are Computer Vision, Deep Learning, and Image Processing. 
 </p>
 
+<i style="font-family: Roboto;">
+We are looking for students, who are self-motivated and have a solid foundation in mathematics and programming. Please feel free to drop me an email (jiangqiuping@nbu.edu.cn) if you are interested.
+</i>
+
 <span class='anchor' id='edu'></span>
 
 # <font color="#000000" >  Education</font>
