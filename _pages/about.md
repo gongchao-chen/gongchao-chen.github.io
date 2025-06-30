@@ -24,18 +24,18 @@ I am Gongchao Chen (陈巩超), currently pursuing a Master’s degree at Henan 
 
 <span class='anchor' id='edu'></span>
 
-# <font color="#000000" >  Education Experience </font>
+# <font color="#000000" >  Education</font>
 + 2024.07-2025.07: Visiting student, Advanced Ocean Institute of Southeast University, Nantong, China
 + 2023.09-Present: M.S. in Electronic Information, Henan Institute of Science and Technology, Xinxiang, China
 + 2018.09-2022.07, B.S. in Communications Engineering, Henan Institute of Science and Technology, Xinxiang, China
 
 <span class='anchor' id='pub'></span>
 
-# <font color="#000000" >  Selected Publications </font>
+# <font color="#000000" >  Publications </font>
 
 <span class='anchor' id='ser'></span>
 
-# <font color="#000000" >  Academic Services </font>
+# <font color="#000000" >  Services </font>
 + IEEE/CCF/CCIG Student Member
 + Academic Liaison, Journal of Naval Aviation University
 + Reviewer for ESWA、MST、REX、IWACCE
@@ -46,5 +46,7 @@ I am Gongchao Chen (陈巩超), currently pursuing a Master’s degree at Henan 
 + Merit Student, Henan Department of Education （河南省三好学生）
 + National Graduate Scholarship, Ministry of Education （硕士研究生国家奖学金）
 + First-Class Graduate Academic Scholarship, Henan Department of Education （河南省一等学业奖学金）
+
+<span class='anchor' id='other'></span>
 
 # <font color="#000000" >  Others </font>
