@@ -17,6 +17,4 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I am Gongchao Chen, currently pursuing a Master’s degree at Henan Institute of Science and Technology, supervised by Prof. Weidong Zhang and Prof. Guohou Li. In Jul. 2024 - Jul. 2025, I worked as a visiting student at Advanced Ocean Institute of Southeast University, Nantong. My research interests are Computer Vision, Deep Learning, and Image Processing. 
