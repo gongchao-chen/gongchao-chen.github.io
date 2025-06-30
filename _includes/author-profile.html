@@ -8,8 +8,8 @@
     <img style="border-radius: 0%;"  src="{{ author.avatar }}" class="author__avatar" alt="{{ author.name }}">
   </div>
 
-  <div class="author__content">
-    <h3 style="text-align: justify;" class="author__name">{{ author.name }}</h3>
+  <div class="author__content" >
+    <h3 style="text-align: center;" class="author__name">{{ author.name }}</h3>
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
   </div>
 </div>
@@ -17,16 +17,13 @@
     <!-- <button class="btn btn--inverse">More Info & Contact</button> -->
     <ul class="author__urls social-icons">
       {% if site.description %}
-        <li><div style="white-space: normal; margin-bottom: 1em;">{{ site.description }}</div></li>
+        <li><div style="text-align: center; white-space: normal; margin-bottom: 1em;">{{ site.description }}</div></li>
       {% endif %}
       {% if author.location %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
       {% endif %}
       {% if author.employer %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.employer }}</li>
-      {% endif %}
-      {% if author.uri %}
-        <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> Website</a></li>
       {% endif %}
       {% if author.email %}
         <li><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> {{ author.email }}</li>
@@ -111,6 +108,9 @@
       {% endif %}
       {% if author.orcid %}
         <li><a href="{{ author.orcid }}"><i class="ai ai-orcid-square ai-fw"></i> ORCID</a></li>
+      {% endif %}
+      {% if author.uri %}
+      <a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> University Website </a>
       {% endif %}
       {% if author.impactstory %}
         <li><a href="{{ author.impactstory }}"><i class="ai ai-impactstory ai-fw"></i> Impactstory</a></li>
