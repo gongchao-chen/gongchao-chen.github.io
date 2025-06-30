@@ -23,7 +23,8 @@ I am Gongchao Chen, currently pursuing a Master’s degree at Henan Institute of
 </p>
 
 # <font color="#000000" >  Education Experience </font>
-+ 2022.09-Present:
-+ 2018.09-2022.07:
++ 2024.07-2025.07: Visiting student: Advanced Ocean Institute of Southeast University
++ 2023.09-Present: Graduate Student: Electronic Information, Henan Institute of Science and Technology
++ 2018.09-2022.07, Undergraduate Student: Communications Engineering, Henan Institute of Science and Technology
 
 # <font color="#000000" >  Publications </font>
