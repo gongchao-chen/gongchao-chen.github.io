@@ -29,6 +29,6 @@ I am Gongchao Chen, currently pursuing a Master’s degree at Henan Institute of
 
 # <font color="#000000" >  Publications </font>
 
-# <font color="#000000" >  Honors and Awards </font>
+# <font color="#000000" >  Services </font>
 
-# <font color="#000000" >  Others </font>
+# <font color="#000000" >  Honors and Awards </font>
