@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Gongchao Chen            "
+  name             : "Gongchao Chen"
   avatar           : "images/gongchao-chen.jpg"
   bio              : 
   location         : 
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=eXhp9C4AAAAJ"
-  email            : "cgc_gc@163.com"
+  email            : 
   researchgate     : # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              : # " http://202.119.85.163/open/TutorInfo.aspx?dsbh=aE30wCkG0tM6Gghyn93SpQ==&yxsh=4iVdgPyuKTE=&zydm=fY2NaWnaNpk= "
   bitbucket        :
