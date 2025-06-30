@@ -44,7 +44,7 @@ I am deeply interested in computer vision research and look forward to opportuni
 <span class='anchor' id='ser'></span>
 
 # <font color="#000000" >  Services </font>
-+ IEEE/CCF/CCIG Student Member
++ IEEE/CCF/CSIG Student Member
 + Academic Liaison, Journal of Naval Aviation University
 + Reviewer for ESWA、MST、REX、IWACCE
 
