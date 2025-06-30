@@ -22,7 +22,7 @@ I am Gongchao Chen (陈巩超), currently pursuing a Master’s degree at Henan 
 </p>
 
 <i style="font-family: Roboto;">
-I am currently seeking opportunities to pursue a Ph.D. degree.
+I am currently seeking opportunities to pursue a Ph.D. degree. \\
 I am deeply interested in computer vision research and look forward to opportunities for collaboration where I can contribute and continue to grow. [<a href="./images/Curriculum Vitae.pdf" target="_blank">Curriculum Vitae</a>] [<a href="./images/WeChat.png" target="_blank">WeChat</a>]
 </i>
 
