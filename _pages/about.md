@@ -31,7 +31,7 @@ I am deeply interested in computer vision research and look forward to opportuni
 # <font color="#000000" >  Education</font>
 + 2024.07-2025.07: Visiting student, Advanced Ocean Institute of Southeast University, Nantong, China
 + 2023.09-Present: M.S. in Electronic Information, Henan Institute of Science and Technology, Xinxiang, China
-+ 2018.09-2022.07, B.S. in Communications Engineering, Henan Institute of Science and Technology, Xinxiang, China
++ 2018.09-2022.07: B.S. in Communications Engineering, Henan Institute of Science and Technology, Xinxiang, China
 
 <span class='anchor' id='pub'></span>
 
