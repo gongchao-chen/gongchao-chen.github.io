@@ -37,4 +37,4 @@ I am Gongchao Chen, currently pursuing a Master’s degree at Henan Institute of
 # <font color="#000000" >  Honors and Awards </font>
 + Merit Student, Henan Department of Education （河南省三好学生）
 + National Graduate Scholarship, Ministry of Education （硕士研究生国家奖学金）
-+ First-Class Graduate Academic Scholarship, Henan Department of Education （河南省一等学业奖学金） 
++ First-Class Graduate Academic Scholarship, Henan Department of Education （河南省一等学业奖学金）
