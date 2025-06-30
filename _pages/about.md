@@ -32,7 +32,7 @@ I am Gongchao Chen (陈巩超), currently pursuing a Master’s degree at Henan 
 <span class='anchor' id='pub'></span>
 
 # <font color="#000000" >  Publications </font>
-+ Weidong Zhang, <b>Gongchao Chen</b>, Peixian Zhuang, Wenyi Zhao, Ling Zhou. 
++ Weidong Zhang, <b>Gongchao Chen</b>, Peixian Zhuang, Wenyi Zhao, Ling Zhou. <b>(ESI Highly Cited Paper)</b>🏆<b>(ESI Hot Paper)</b>🔥
 
 <span class='anchor' id='ser'></span>
 
