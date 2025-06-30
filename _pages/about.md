@@ -17,7 +17,6 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-
 <p style="text-align: justify;font-family: Roboto;">
 I am Gongchao Chen (陈巩超), currently pursuing a Master’s degree at Henan Institute of Science and Technology, supervised by Prof. Guohou Li and Prof. <a href = "https://xxgcxy.hist.edu.cn/info/1478/8956.htm" target = "_blank"> Weidong Zhang</a>. In Jul. 2024 - Jul. 2025, I worked as a visiting student at Advanced Ocean Institute of Southeast University, Nantong. My research interests are Computer Vision, Deep Learning, and Image Processing. 
 </p>
@@ -57,4 +56,4 @@ I am Gongchao Chen (陈巩超), currently pursuing a Master’s degree at Henan 
 # <font color="#000000" >  Others </font>
 
 I am currently seeking opportunities to pursue a Ph.D. degree. \
-I am deeply interested in computer vision research and look forward to opportunities for collaboration where I can contribute and continue to grow. [Curriculum Vitae] [<href = "./images/WeChat.png"  target = "_blank"> WeChat]
+I am deeply interested in computer vision research and look forward to opportunities for collaboration where I can contribute and continue to grow. [Curriculum Vitae] [<a href="./images/WeChat.png" target="_blank">WeChat</a>]
