@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Gongchao Chen"
-description              : "Master's Student"
+description              : 
 repository               : "gongchao-chen/gongchao-chen.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,7 +24,7 @@ author:
   name             : "Gongchao Chen"
   avatar           : "images/gongchao-chen.jpg"
   bio              : 
-  location         : "Xinxiang, China"
+  location         : 
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=eXhp9C4AAAAJ"
