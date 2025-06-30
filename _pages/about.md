@@ -22,7 +22,8 @@ I am Gongchao Chen (陈巩超), currently pursuing a Master’s degree at Henan 
 </p>
 
 <i style="font-family: Roboto;">
-We are looking for students, who are self-motivated and have a solid foundation in mathematics and programming. Please feel free to drop me an email (jiangqiuping@nbu.edu.cn) if you are interested.
+I am currently seeking opportunities to pursue a Ph.D. degree. \
+I am deeply interested in computer vision research and look forward to opportunities for collaboration where I can contribute and continue to grow. [<a href="./images/Curriculum Vitae.pdf" target="_blank">Curriculum Vitae</a>] [<a href="./images/WeChat.png" target="_blank">WeChat</a>]
 </i>
 
 <span class='anchor' id='edu'></span>
@@ -54,10 +55,3 @@ We are looking for students, who are self-motivated and have a solid foundation 
 + National Graduate Scholarship, Ministry of Education （硕士研究生国家奖学金）
 + First-Class Graduate Academic Scholarship, Henan Department of Education （河南省一等学业奖学金）
 + College Students' Innovative Entrepreneurial Training Plan Program (No.202010467009) （主持国家级大创项目）
-
-<span class='anchor' id='other'></span>
-
-# <font color="#000000" >  Others </font>
-
-I am currently seeking opportunities to pursue a Ph.D. degree. \
-I am deeply interested in computer vision research and look forward to opportunities for collaboration where I can contribute and continue to grow. [<a href="./images/Curriculum Vitae.pdf" target="_blank">Curriculum Vitae</a>] [<a href="./images/WeChat.png" target="_blank">WeChat</a>]
