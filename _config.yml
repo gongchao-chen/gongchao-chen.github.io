@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Gongchao Chen"
-description              : " "
+title                    : "Gongchao Chen (陈巩超)"
+description              : 
 repository               : "gongchao-chen/gongchao-chen.github.io"
 google_scholar_stats_use_cdn : true
 
