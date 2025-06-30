@@ -50,9 +50,9 @@ I am Gongchao Chen (陈巩超), currently pursuing a Master’s degree at Henan 
 + National Graduate Scholarship, Ministry of Education （硕士研究生国家奖学金）
 + First-Class Graduate Academic Scholarship, Henan Department of Education （河南省一等学业奖学金）
 + College Students' Innovative Entrepreneurial Training Plan Program (No.202010467009) （主持国家级大创项目）
-+ National Third Prize, Blue Bridge Cup National Software and IT Talent Competition （蓝桥杯大赛国三）
-+ Provincial Second Prize, National Undergraduate Electronics Design Contest （电子设计大赛省二）
-+ Provincial Third Prize, Challenge Cup Competition （挑战杯省三）
+# + National Third Prize, Blue Bridge Cup National Software and IT Talent Competition （蓝桥杯大赛国三）
+# + Provincial Second Prize, National Undergraduate Electronics Design Contest （电子设计大赛省二）
+# + Provincial Third Prize, Challenge Cup Competition （挑战杯省三）
 
 <span class='anchor' id='other'></span>
 
