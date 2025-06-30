@@ -3,13 +3,13 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  - title: "Education Experience"
+  - title: "Education"
     url: "/#edu"
 
-  - title: "Selected Publications"
+  - title: "Publications"
     url: "/#pub"
 
-  - title: "Academic Services"
+  - title: "Services"
     url: "/#ser"
 
   - title: "Honors & Awards"
