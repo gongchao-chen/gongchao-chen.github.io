@@ -32,7 +32,7 @@ I am Gongchao Chen (陈巩超), currently pursuing a Master’s degree at Henan 
 <span class='anchor' id='pub'></span>
 
 # <font color="#000000" >  Publications </font>
-+ Weidong Zhang, <b>Gongchao Chen</b>, Peixian Zhuang, Wenyi Zhao, Ling Zhou. CATNet: Cascaded attention transformer network for marine species image classification. Expert Systems with Applications, 256:124932, 2024. <b>(ESI Highly Cited Paper)</b>🏆<b>(ESI Hot Paper)</b>🔥
++ Weidong Zhang, <b>Gongchao Chen</b>, Peixian Zhuang, Wenyi Zhao, Ling Zhou. CATNet: Cascaded attention transformer network for marine species image classification. Expert Systems with Applications, 256:124932, 2024. <b>(🏆ESI Highly Cited Paper)</b> <b>(🔥ESI Hot Paper)</b>
 + Zexu Li#, <b>Gongchao Chen#</b>, Guohou Li, Ling Zhou, Xipeng Pan, Wenyi Zhao, Weidong Zhang. DBANet: Dual-branch Attention Network for hyperspectral remote sensing image classification. Computers and Electrical Engineering, 118:109269, 2024.
 + Bin Wang, <b>Gongchao Chen</b>, Juan Wen, Linfang Li, Songlin Jin, Yan Li, Ling Zhou, Weidong Zhang. SSATNet: Spectral-spatial attention transformer for hyperspectral corn image classification. Frontiers in Plant Science, 15:1458978, 2025.
 
