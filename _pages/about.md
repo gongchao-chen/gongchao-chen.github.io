@@ -49,6 +49,7 @@ I am Gongchao Chen (陈巩超), currently pursuing a Master’s degree at Henan 
 + Merit Student, Henan Department of Education （河南省三好学生）
 + National Graduate Scholarship, Ministry of Education （硕士研究生国家奖学金）
 + First-Class Graduate Academic Scholarship, Henan Department of Education （河南省一等学业奖学金）
++ College Students' Innovative Entrepreneurial Training Plan Program (No.202010467009) （主持国家级大创项目）
 
 <span class='anchor' id='other'></span>
 
