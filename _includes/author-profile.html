@@ -3,16 +3,16 @@
 {% endif %}
 
 <div itemscope itemtype="http://schema.org/Person" class="profile_box">
-
+  <div style="display: flex;align-items:center;flex-direction: column;">
   <div class="author__avatar">
-    <img src="{{ author.avatar }}" class="author__avatar" alt="{{ author.name }}">
+    <img style="border-radius: 0%;"  src="{{ author.avatar }}" class="author__avatar" alt="{{ author.name }}">
   </div>
 
-  <div class="author__content">
-    <h3 class="author__name">{{ author.name }}</h3>
+  <div class="author__content" >
+    <h3 style="text-align: center;" class="author__name">{{ author.name }}</h3>
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
   </div>
-
+</div>
   <div class="author__urls-wrapper">
     <!-- <button class="btn btn--inverse">More Info & Contact</button> -->
     <ul class="author__urls social-icons">
