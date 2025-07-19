@@ -36,9 +36,9 @@ I am deeply interested in computer vision research and look forward to opportuni
 <span class='anchor' id='pub'></span>
 
 # <font color="#000000" >  Publications </font>
-+ Weidong Zhang, <b>Gongchao Chen</b>, Peixian Zhuang, Wenyi Zhao, Ling Zhou*. CATNet: Cascaded attention transformer network for marine species image classification. Expert Systems with Applications, 256:124932, 2024. [<a href = "https://www.sciencedirect.com/science/article/abs/pii/S0957417424017998" target = "_blank">Link</a>] <b>(🏆ESI Highly Cited Paper)</b> <b>(🔥ESI Hot Paper)</b>
-+ Zexu Li#, <b>Gongchao Chen#</b>, Guohou Li*, Ling Zhou, Xipeng Pan, Wenyi Zhao, Weidong Zhang. DBANet: Dual-branch Attention Network for hyperspectral remote sensing image classification. Computers and Electrical Engineering, 118:109269, 2024.
-+ Bin Wang, <b>Gongchao Chen</b>, Juan Wen, Linfang Li, Songlin Jin, Yan Li, Ling Zhou*, Weidong Zhang. SSATNet: Spectral-spatial attention transformer for hyperspectral corn image classification. Frontiers in Plant Science, 15:1458978, 2025.
++ Weidong Zhang, <b>Gongchao Chen</b>, Peixian Zhuang, Wenyi Zhao, Ling Zhou*. CATNet: Cascaded attention transformer network for marine species image classification. Expert Systems with Applications, 256:124932, 2024. [<a href = "https://www.sciencedirect.com/science/article/abs/pii/S0957417424017998" target = "_blank">PDF</a>] <b>(🏆ESI Highly Cited Paper)</b> <b>(🔥ESI Hot Paper)</b>
++ Zexu Li#, <b>Gongchao Chen#</b>, Guohou Li*, Ling Zhou, Xipeng Pan, Wenyi Zhao, Weidong Zhang. DBANet: Dual-branch Attention Network for hyperspectral remote sensing image classification. Computers and Electrical Engineering, 118:109269, 2024. [<a href = "https://www.sciencedirect.com/science/article/abs/pii/S0045790624001976" target = "_blank">PDF</a>]
++ Bin Wang, <b>Gongchao Chen</b>, Juan Wen, Linfang Li, Songlin Jin, Yan Li, Ling Zhou*, Weidong Zhang. SSATNet: Spectral-spatial attention transformer for hyperspectral corn image classification. Frontiers in Plant Science, 15:1458978, 2025. [<a href = "https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2024.1458978/full" target = "_blank">PDF</a>]
 
 <span class='anchor' id='ser'></span>
 
