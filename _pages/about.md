@@ -37,6 +37,7 @@ I am deeply interested in computer vision research and look forward to opportuni
 
 # <font color="#000000" >  Publications </font>
 + Weidong Zhang, <b>Gongchao Chen</b>, Peixian Zhuang, Wenyi Zhao, Ling Zhou. CATNet: Cascaded attention transformer network for marine species image classification. Expert Systems with Applications, 256:124932, 2024. [<a href = "https://www.sciencedirect.com/science/article/abs/pii/S0957417424017998" target = "_blank">PDF</a>] <b>(🏆ESI Highly Cited Paper)</b> <b>(🔥ESI Hot Paper)</b>
++ <b>Gongchao Chen#</b>, Guohou Li, Songlin Jin, Linfeng Bai. DACNet: Depth-Aware Convolutional Network for Corn Hyperspectral Image Classification. Engineering Research Express, 2025. [<a href = "https://iopscience.iop.org/article/10.1088/2631-8695/ae1368" target = "_blank">PDF</a>]
 + Zexu Li#, <b>Gongchao Chen#</b>, Guohou Li, Ling Zhou, Xipeng Pan, Wenyi Zhao, Weidong Zhang. DBANet: Dual-branch Attention Network for hyperspectral remote sensing image classification. Computers and Electrical Engineering, 118:109269, 2024. [<a href = "https://www.sciencedirect.com/science/article/abs/pii/S0045790624001976" target = "_blank">PDF</a>]
 + Bin Wang, <b>Gongchao Chen</b>, Juan Wen, Linfang Li, Songlin Jin, Yan Li, Ling Zhou, Weidong Zhang. SSATNet: Spectral-spatial attention transformer for hyperspectral corn image classification. Frontiers in Plant Science, 15:1458978, 2025. [<a href = "https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2024.1458978/full" target = "_blank">PDF</a>]
 
@@ -49,7 +50,7 @@ I am deeply interested in computer vision research and look forward to opportuni
 
 <span class='anchor' id='honor'></span>
 
-# <font color="#000000" >  Honors & Awards </font>
+# <font color="#000000" >  Honors and Awards </font>
 + Merit Student, Henan Department of Education （河南省三好学生）
 + National Graduate Scholarship, Ministry of Education （硕士研究生国家奖学金）
 + First-Class Graduate Academic Scholarship, Henan Department of Education （河南省一等学业奖学金）
