@@ -46,7 +46,7 @@ I am deeply interested in computer vision research and look forward to opportuni
 # <font color="#000000" >  Services </font>
 + IEEE/CCF/CSIG Student Member
 + Academic Liaison, <i style="font-family: Roboto;"> Journal of Naval Aviation University </i>
-+ Reviewer, <i style="font-family: Roboto;"> Expert Systems with Applications、Measurement Science and Technology、Engineering Research Express、Frontiers in Remote Sensing、IWACCE </i>
+*+ Reviewer, <i style="font-family: Roboto;"> Expert Systems with Applications、Measurement Science and Technology、Engineering Research Express、Frontiers in Remote Sensing、IWACCE </i>*
 
 <span class='anchor' id='honor'></span>
 
